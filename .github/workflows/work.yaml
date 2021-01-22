@@ -44,4 +44,3 @@ jobs:
                 name: result
                 path: ./*.txt
 
-
